@@ -1,0 +1,17 @@
+{
+    "name": "slwdc/php-payment-gateways",
+    "description": "Frameword-agnostic PHP libraries for Sri Lankan payment gateways.",
+    "type": "library",
+    "require-dev": {
+		"php": "^5.6 | ^7.0"
+        "phpunit/phpunit": "^6.0"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Ayesh Karunaratne",
+            "email": "ayesh@ayesh.me"
+        }
+    ],
+    "require": {}
+}
